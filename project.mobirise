@@ -126,6 +126,11 @@
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": 2,
@@ -139,12 +144,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 AnchorPvP.",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "text": "Copyright (c) 2017 AnchorPvP."
         },
         {
           "_inherit": "msg-box8",
@@ -307,6 +307,18 @@
             "Theme"
           ],
           "_name": "features6",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "features6-o",
           "_params": {
             "paddingTop": "4",
@@ -425,19 +437,7 @@
           "title6": "KnockbackFFA",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "-<br>-<br>-",
-          "button6": "<a data-app-btn=\"true\" href=\"https://nxtserv.de/\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join now<br></a>",
-          "_styles": {
-            "H4": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "text-align": "center"
-            },
-            "B": {
-              "text-align": "right"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://nxtserv.de/\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join now<br></a>"
         }
       ]
     },
